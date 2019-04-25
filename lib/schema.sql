@@ -6,3 +6,8 @@ subgenre_id INTEGER
 CREATE TABLE SubGenre
 ( id INTEGER PRIMARY KEY,
   name TEXT);
+  
+  CREATE TABLE Authors (
+  id INTEGER PRIMARY KEY,
+  name TEXT
+);
