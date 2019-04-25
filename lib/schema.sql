@@ -11,3 +11,4 @@ CREATE TABLE SubGenres
   id INTEGER PRIMARY KEY,
   name TEXT
 );
+
