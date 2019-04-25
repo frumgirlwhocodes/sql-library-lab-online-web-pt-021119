@@ -1,5 +1,5 @@
-CREATE series ( id INTEGER PRIMARY KEY,
+CREATE Series ( id INTEGER PRIMARY KEY,
 title TEXT,
-author_id
-sub
+author_id INTEGER,
+subgenre_id INTEGER;
 )
