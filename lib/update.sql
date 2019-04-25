@@ -1,1 +1,1 @@
-UPDATE characters SET 
+UPDATE characters SET series=
