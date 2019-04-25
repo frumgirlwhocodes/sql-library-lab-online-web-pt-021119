@@ -3,4 +3,4 @@ title TEXT,
 author_id INTEGER,
 subgenre_id INTEGER
 );
-CREATE TABLE Sub_Genre
+CREATE TABLE SubGenre
